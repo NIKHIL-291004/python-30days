@@ -361,12 +361,13 @@ print(d["name"])
 
 ## problems
 1.Comments are very useful in any language to tell users what is the task of any function or operation. The comments are neglected by the compiler, so whatever you write in the comments won't have any effect on the working of a code.
-In Python, comments can be written as mentioned below:
-# This is a comment
+In Python, comments can be written as mentioned below: This is a comment
 """ This is also a comment """
 You are given a complete function that outputs a, b, and c. Comment the code that outputs b, so only a and c gets printed.
+
 2.When learning a new language, we first learn to output some message. Here we will start with the famous "Hello World" message.
 Complete the python code to print "Hello World".
+
 3.Exercises: Level 1
 Inside 30DaysOfPython create a folder called day_2. Inside this folder create a file named variables.py
 Write a python comment saying 'Day 2: 30 Days of python programming'
@@ -381,6 +382,7 @@ Declare a variable is_married and assign a value to it
 Declare a variable is_true and assign a value to it
 Declare a variable is_light_on and assign a value to it
 Declare multiple variable on one line
+
 Exercises: Level 2
 Check the data type of all your variables using type() built-in function
 Using the len() built-in function, find the length of your first name
