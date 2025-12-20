@@ -368,7 +368,7 @@ You are given a complete function that outputs a, b, and c. Comment the code tha
 2.When learning a new language, we first learn to output some message. Here we will start with the famous "Hello World" message.
 Complete the python code to print "Hello World".
 
-3.Exercises: Level 1
+## 3.Exercises: Level 1
 3.1 Inside 30DaysOfPython create a folder called day_2. Inside this folder create a file named variables.py
 3.2 Write a python comment saying 'Day 2: 30 Days of python programming'
 3.3 Declare a first name variable and assign a value to it
@@ -383,7 +383,7 @@ Complete the python code to print "Hello World".
 3.12 Declare a variable is_light_on and assign a value to it
 3.13 Declare multiple variable on one line
 
-4.Exercises: Level 2
+## 4.Exercises: Level 2
 4.1 Check the data type of all your variables using type() built-in function
 4.2 Using the len() built-in function, find the length of your first name
 4.3 Compare the length of your first name and your last name
