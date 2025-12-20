@@ -369,35 +369,35 @@ You are given a complete function that outputs a, b, and c. Comment the code tha
 Complete the python code to print "Hello World".
 
 3.Exercises: Level 1
-Inside 30DaysOfPython create a folder called day_2. Inside this folder create a file named variables.py
-Write a python comment saying 'Day 2: 30 Days of python programming'
-Declare a first name variable and assign a value to it
-Declare a last name variable and assign a value to it
-Declare a full name variable and assign a value to it
-Declare a country variable and assign a value to it
-Declare a city variable and assign a value to it
-Declare an age variable and assign a value to it
-Declare a year variable and assign a value to it
-Declare a variable is_married and assign a value to it
-Declare a variable is_true and assign a value to it
-Declare a variable is_light_on and assign a value to it
-Declare multiple variable on one line
+3.1 Inside 30DaysOfPython create a folder called day_2. Inside this folder create a file named variables.py
+3.2 Write a python comment saying 'Day 2: 30 Days of python programming'
+3.3 Declare a first name variable and assign a value to it
+3.4 Declare a last name variable and assign a value to it
+3.5 Declare a full name variable and assign a value to it
+3.6 Declare a country variable and assign a value to it
+3.7 Declare a city variable and assign a value to it
+3.8 Declare an age variable and assign a value to it
+3.9 Declare a year variable and assign a value to it
+3.10 Declare a variable is_married and assign a value to it
+3.11 Declare a variable is_true and assign a value to it
+3.12 Declare a variable is_light_on and assign a value to it
+3.13 Declare multiple variable on one line
 
-Exercises: Level 2
-Check the data type of all your variables using type() built-in function
-Using the len() built-in function, find the length of your first name
-Compare the length of your first name and your last name
-Declare 5 as num_one and 4 as num_two
-Add num_one and num_two and assign the value to a variable total
-Subtract num_two from num_one and assign the value to a variable diff
-Multiply num_two and num_one and assign the value to a variable product
-Divide num_one by num_two and assign the value to a variable division
-Use modulus division to find num_two divided by num_one and assign the value to a variable remainder
-Calculate num_one to the power of num_two and assign the value to a variable exp
-Find floor division of num_one by num_two and assign the value to a variable floor_division
-The radius of a circle is 30 meters.
-Calculate the area of a circle and assign the value to a variable name of area_of_circle
-Calculate the circumference of a circle and assign the value to a variable name of circum_of_circle
-Take radius as user input and calculate the area.
-Use the built-in input function to get first name, last name, country and age from a user and store the value to their corresponding variable names
-Run help('keywords') in Python shell or in your file to check for the Python reserved words or keywords
+4.Exercises: Level 2
+4.1 Check the data type of all your variables using type() built-in function
+4.2 Using the len() built-in function, find the length of your first name
+4.3 Compare the length of your first name and your last name
+4.4 Declare 5 as num_one and 4 as num_two
+4.5 Add num_one and num_two and assign the value to a variable total
+4.6 Subtract num_two from num_one and assign the value to a variable diff
+4.7 Multiply num_two and num_one and assign the value to a variable product
+4.8 Divide num_one by num_two and assign the value to a variable division
+4.9 Use modulus division to find num_two divided by num_one and assign the value to a variable remainder
+4.10 Calculate num_one to the power of num_two and assign the value to a variable exp
+4.11 Find floor division of num_one by num_two and assign the value to a variable floor_division
+4.12 The radius of a circle is 30 meters.
+4.13 Calculate the area of a circle and assign the value to a variable name of area_of_circle
+4.14 Calculate the circumference of a circle and assign the value to a variable name of circum_of_circle
+4.15 Take radius as user input and calculate the area.
+4.16 Use the built-in input function to get first name, last name, country and age from a user and store the value to their corresponding variable names
+4.17 Run help('keywords') in Python shell or in your file to check for the Python reserved words or keywords
