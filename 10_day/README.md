@@ -1,5 +1,5 @@
 
-# 🧵 Python Strings – Complete & Detailed Notes
+# 🧵 Python Strings 
 
 ---
 
