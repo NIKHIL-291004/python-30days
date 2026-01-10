@@ -331,7 +331,7 @@ data[3]['A']
 
 ---
 
-## 💻 Exercises: Day 8
+## 💻 Exercises:
 
 1. Create  an empty dictionary called dog
 2. Add name, color, breed, legs, age to the dog dictionary
